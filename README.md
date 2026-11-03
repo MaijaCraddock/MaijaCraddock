@@ -1,7 +1,7 @@
 ## Maija Craddock ##
-Hello! I am a Computer Science Masters Graduate from University of Tennessee, my interests include Algorithms and Data Structures, and my favorite field is Game Development and Computer Graphics. <br> I have a foundation in Systems and Algorithms,
-and am proficient in C++, C#, C and Python.
-
+Hello! I am a Computer Science Masters Graduate from University of Tennessee, my interests include Algorithms and Data Structures, and my favorite field is Game Development and Computer Graphics. 
+<br> 
+I have a foundation in Systems and Algorithms,and am proficient in C++, C#, C and Python.
 <br>
 
 Take a look at some of my projects, read one of my [articles/blogs](https://maijacraddock.github.io/index.html) or check out my [portfolio](https://maijacraddock.github.io/about.html).
